@@ -1,31 +1,19 @@
 <tile>
-<visual branding="none">
-<binding template="TileMedium">
-<text hint-maxLines="1" hint-style="title">
-Тест тест
-</text>
-<text hint-wrap="true" hint-maxLines="3" hint-style="baseSubtle">
-Тест тест
-</text>
-<image src="http://ms-devices.com/wp-content/uploads/2015/07/lumia-logo.jpg" hint-removeMargin="true" placement="peek"/>
-</binding>
-<binding template="TileWide">
-<text hint-maxLines="1" hint-style="title">
-Title
-</text>
-<text hint-wrap="true" hint-maxLines="3" hint-style="baseSubtle">
-Description
-</text>
-<image src="http://ms-devices.com/wp-content/uploads/2014/06/logo-new.png" hint-removeMargin="true" placement="peek"/>
-</binding>
-<binding template="TileLarge">
-<text hint-maxLines="1" hint-style="title">
-Тест тест
-</text>
-<text hint-wrap="true" hint-maxLines="3" hint-style="baseSubtle">
-Тест тест
-</text>
-<image src="http://ms-devices.com/wp-content/uploads/2015/07/lumia-logo.jpg" hint-removeMargin="true" placement="peek"/>
-</binding>
-</visual>
+  <visual branding="nameAndLogo">
+    <binding template="TileMedium">
+      <text hint-maxLines="1" hint-style="title">Title</text>
+      <text hint-wrap="true" hint-maxLines="3" hint-style="baseSubtle">Summary</text>
+      <image src="ImageUrl" hint-removeMargin="true" placement="peek" />
+    </binding>
+    <binding template="TileWide">
+      <text hint-maxLines="1" hint-style="title">Title</text>
+      <text hint-wrap="true" hint-maxLines="3" hint-style="baseSubtle">Summary</text>
+      <image src="ImageUrl" hint-removeMargin="true" placement="peek" />
+    </binding>
+    <binding template="TileLarge">
+      <text hint-maxLines="1" hint-style="title">Title</text>
+      <text hint-wrap="true" hint-maxLines="3" hint-style="baseSubtle">Summary</text>
+      <image src="ImageUrl" hint-removeMargin="true" placement="peek" />
+    </binding>
+  </visual>
 </tile>
