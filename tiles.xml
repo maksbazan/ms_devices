@@ -5,25 +5,25 @@
 Тест тест
 </text>
 <text hint-wrap="true" hint-maxLines="3" hint-style="baseSubtle">
-Сервис ShareIt выпустил официальное приложение для Windows Phone и Windows 10 Mobile. При помощи данного приложения можно обмениваться картинками и фотографиями, музыкой, видео между разными устройствами с установленным приложением ShareIt. Для передачи между устройствами используется WiFi, а это значит, что...ДАЛЕЕ Запись Официальное приложение ShareIt вышло на Windows Phone и Windows 10 Mobile впервые появилась ms devices.
+Тест тест
 </text>
 <image src="http://ms-devices.com/wp-content/uploads/2015/11/apps.51410.13510798886702172.bf66519f-7623-4306-ab1c-46b5e7574bd8.jpg" hint-removeMargin="true" placement="peek"/>
 </binding>
 <binding template="TileWide">
 <text hint-maxLines="1" hint-style="title">
-Официальное приложение ShareIt вышло на Windows Phone и Windows 10 Mobile
+Тест тест
 </text>
 <text hint-wrap="true" hint-maxLines="3" hint-style="baseSubtle">
-Сервис ShareIt выпустил официальное приложение для Windows Phone и Windows 10 Mobile. При помощи данного приложения можно обмениваться картинками и фотографиями, музыкой, видео между разными устройствами с установленным приложением ShareIt. Для передачи между устройствами используется WiFi, а это значит, что...ДАЛЕЕ Запись Официальное приложение ShareIt вышло на Windows Phone и Windows 10 Mobile впервые появилась ms devices.
+Тест тест
 </text>
 <image src="http://ms-devices.com/wp-content/uploads/2015/11/apps.51410.13510798886702172.bf66519f-7623-4306-ab1c-46b5e7574bd8.jpg" hint-removeMargin="true" placement="peek"/>
 </binding>
 <binding template="TileLarge">
 <text hint-maxLines="1" hint-style="title">
-Официальное приложение ShareIt вышло на Windows Phone и Windows 10 Mobile
+Тест тест
 </text>
 <text hint-wrap="true" hint-maxLines="3" hint-style="baseSubtle">
-Сервис ShareIt выпустил официальное приложение для Windows Phone и Windows 10 Mobile. При помощи данного приложения можно обмениваться картинками и фотографиями, музыкой, видео между разными устройствами с установленным приложением ShareIt. Для передачи между устройствами используется WiFi, а это значит, что...ДАЛЕЕ Запись Официальное приложение ShareIt вышло на Windows Phone и Windows 10 Mobile впервые появилась ms devices.
+Тест тест
 </text>
 <image src="http://ms-devices.com/wp-content/uploads/2015/11/apps.51410.13510798886702172.bf66519f-7623-4306-ab1c-46b5e7574bd8.jpg" hint-removeMargin="true" placement="peek"/>
 </binding>
